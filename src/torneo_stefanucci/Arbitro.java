@@ -9,5 +9,9 @@ package torneo_stefanucci;
  * @author B045_14
  */
 public class Arbitro {
+    private static final int VITTORIA = 25;
+    private boolean fine = false;
+    private int turnoSquadra = 1; //Inizia la prima squadra
     
+    //inserire codice necessario
 }
