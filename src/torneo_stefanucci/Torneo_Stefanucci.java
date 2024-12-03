@@ -6,7 +6,7 @@ package torneo_stefanucci;
 
 /**
  *
- * @author B045_14
+ * @author Alessandro Stefanucci
  */
 public class Torneo_Stefanucci {
 
@@ -17,5 +17,7 @@ public class Torneo_Stefanucci {
      
         // TODO code application logic here
         System.out.println("Inizia il torneo!");
+        
+        System.out.println("Fine torneo.");
     }
 }
