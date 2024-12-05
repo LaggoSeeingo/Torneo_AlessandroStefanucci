@@ -19,5 +19,6 @@ public class Torneo_Stefanucci {
         System.out.println("Inizia il torneo!");
         
         System.out.println("Fine torneo.");
+
     }
 }
