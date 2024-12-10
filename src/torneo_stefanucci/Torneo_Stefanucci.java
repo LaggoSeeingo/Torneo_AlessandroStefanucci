@@ -7,6 +7,7 @@ package torneo_stefanucci;
 /**
  *
  * @author Alessandro Stefanucci
+ * @see Scheda esercitazione
  */
 public class Torneo_Stefanucci {
 
