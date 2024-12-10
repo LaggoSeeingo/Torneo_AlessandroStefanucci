@@ -6,7 +6,7 @@ package torneo_stefanucci;
 
 /**
  *
- * @author B045_14
+ * @author Alessandro Stefanucci
  */
 public class Organizzatore {
     
